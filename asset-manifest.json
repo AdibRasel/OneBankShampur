@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OneBankShampur/static/css/main.5411400d.css",
+    "main.js": "/OneBankShampur/static/js/main.616c4a64.js",
+    "static/media/ImoIcon.png": "/OneBankShampur/static/media/ImoIcon.06910d8fc74ef2da0270.png",
+    "static/media/EmailIcon.png": "/OneBankShampur/static/media/EmailIcon.9800434dcd844b3dca3f.png",
+    "static/media/WhatsppIcon.png": "/OneBankShampur/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
+    "index.html": "/OneBankShampur/index.html",
+    "main.5411400d.css.map": "/OneBankShampur/static/css/main.5411400d.css.map",
+    "main.616c4a64.js.map": "/OneBankShampur/static/js/main.616c4a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5411400d.css",
+    "static/js/main.616c4a64.js"
+  ]
+}
